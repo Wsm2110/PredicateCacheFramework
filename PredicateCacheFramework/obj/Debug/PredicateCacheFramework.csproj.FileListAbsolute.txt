@@ -1,0 +1,6 @@
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\bin\Debug\PredicateCacheFramework.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\bin\Debug\PredicateCacheFramework.pdb
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\obj\Debug\PredicateCacheFramework.csprojResolveAssemblyReference.cache
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\obj\Debug\PredicateCacheFramework.csproj.CoreCompileInputs.cache
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\obj\Debug\PredicateCacheFramework.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\PredicateCacheFramework\obj\Debug\PredicateCacheFramework.pdb

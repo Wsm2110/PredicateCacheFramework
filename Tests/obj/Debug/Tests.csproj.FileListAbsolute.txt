@@ -1,0 +1,15 @@
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Tests.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Tests.pdb
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\PredicateCacheFramework.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\PredicateCacheFramework.pdb
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\obj\Debug\Tests.dll
+c:\users\wiljan\documents\visual studio 2017\Projects\PredicateCacheFramework\Tests\obj\Debug\Tests.pdb
